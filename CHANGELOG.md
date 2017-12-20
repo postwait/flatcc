@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.4.3-aligned-free]
+
+- Added `flatcc_builder_aligned_free` and `flatcc_builder_aligned_alloc`.
+
 ## [0.4.3]
 - Fix issue with initbuild.sh for custom builds (#43)
 - Add casts to aid clean C++ builds (#47)
